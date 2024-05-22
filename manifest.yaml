@@ -30,7 +30,7 @@ description:
 # These assets are static files necessary for packaging the service for Start9 (into an s9pk). Each value is a path to the specified asset. If an asset is missing from this list, or otherwise denoted, it will be defaulted to the values denoted below. 
 assets:
   # Default = LICENSE.md
-  license: LICENSE
+  license: LICENSE.md
   # Default = icon.png (.svg allowed)
   icon: icon.png
   # Default = INSTRUCTIONS.md
